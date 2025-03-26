@@ -1,0 +1,39 @@
+"Colors":
+	[
+		"Purple Colony":
+		{
+			"Clear": "11111B",
+			"Caption": "11111B",
+			"Background": "1C1825",
+			"Surface": "110E1A",
+			"Foreground": "363144",
+			"Inner": "211E2E",
+			"Border": "3D3144",
+			"Outline": "493F5F",
+			"Separator": "251E2E",
+			"AlternatingRow": "201A2A",
+			"IconTint": "BB9FCB",
+			"Text": "E6C9FC",
+			"Secondary": "766A96",
+			"Group": "947F9C",
+			"File": "E8CDF4",
+			"Folder": "E8CDF4",
+			"Warning": "FF4949",
+			"Progress": "B779FF",
+			"Selection": "8D76B0",
+			"RectSelection": "CBA6F7",
+			"Match": "FF4DBC",
+			"Hidden": "4D4D4D",
+			"Hover": "595959",
+			"Disabled": "595959",
+			"ContentHover": "E3CDF4",
+			"ContentSelection": "0E0E0E",
+			"ContentDisabledSelection": "A793B2",
+			"OutlineHover": "675287",
+			"OutlineSelection": "AC93B2",
+			"OutlineDisabledSelection": "4D455A",
+			"MatchHover": "FF4DBC",
+			"MatchSelection": "FFFFFF",
+			"MatchDisabledSelection": "CE8DA3"
+		}
+	]
